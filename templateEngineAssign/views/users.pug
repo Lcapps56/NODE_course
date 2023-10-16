@@ -1,0 +1,7 @@
+extends layout/main-layout.pug
+
+block content 
+    h1 this is users
+    ul 
+        each user of users
+            li #{user.name}
