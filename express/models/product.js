@@ -1,3 +1,5 @@
+// products model, a class that sets the rules and methods for handling new products
+
 const products = []
 const fs = require('fs')
 const path = require('path')
