@@ -1,3 +1,8 @@
+// This 'admin' controller prvides the logic that will be associated with admin related routes. when a route open what do we 
+// to do with the req & res. We grab the 'model' info which handles how to process the data as a 'product'
+
+
+
 const Product = require('../models/product');
 
 exports.getAddProduct = (req, res, next) => {
