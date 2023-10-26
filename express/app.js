@@ -1,4 +1,6 @@
 // Going to need to review past modules to get caught up
+// this is the file where the primary functions are called. outsourced logic for what happens on each route
+// See shop and admin routes for cont of the concepts here
 const path = require('path');
 
 const express = require('express');
