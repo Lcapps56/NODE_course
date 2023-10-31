@@ -1,3 +1,5 @@
+// 'functions' to use in regards to shop related routes
+
 const Product = require('../models/product');
 
 exports.getProducts = (req, res, next) => {
