@@ -1,6 +1,7 @@
 // 'functions' to use in regards to shop related routes
 // Gonna be a while before I am back in this but need stuff on gitub
 // but util then i will create comments here to push
+// same thing as above 
 
 const Product = require('../models/product');
 
